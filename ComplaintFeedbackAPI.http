@@ -1,0 +1,6 @@
+@ComplaintFeedbackAPI_HostAddress = http://localhost:5199
+
+GET {{ComplaintFeedbackAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
