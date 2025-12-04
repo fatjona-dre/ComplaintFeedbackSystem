@@ -482,3 +482,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Ignore frontend node_modules
+ComplaintFeedback-Frontend/complaint-feedback-frontend/node_modules/
